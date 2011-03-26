@@ -1,0 +1,44 @@
+/*****
+light to dark orange
+#fd0;
+#fb0;
+#f90;
+#f70;
+*****/
+
+.border {
+    border: 2px solid #000;
+}
+
+#divOuter {
+    background-color: #f50;
+    position: absolute;
+    left: 10px; top: 10px; bottom: 10px; right: 10px;
+}
+
+#divBtn {
+    background-color: #f80;
+    position: absolute;
+    left: 10px; top: 10px; bottom: 10px;
+    width: 120px;
+    padding: 10px;
+}
+
+button {
+    background-color: green;
+    margin-bottom: 2px;
+    width: 100%;
+}
+
+#divTar {
+    background-color: #fa0;
+    position: absolute;
+    left: 150px; top: 10px; bottom: 10px; right: 10px;
+    padding: 10px;
+}
+
+.tar {
+    padding: 10px;
+    background-color: #fd0;
+    width: 100%; height: 100%
+}
